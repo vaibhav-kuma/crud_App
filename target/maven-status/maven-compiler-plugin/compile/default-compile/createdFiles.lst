@@ -1,0 +1,4 @@
+com\example\crud\PersonDAO.class
+com\example\crud\PersonController.class
+com\example\crud\MainApp.class
+com\example\crud\Person.class
