@@ -8,7 +8,7 @@ WORKDIR /app
 # Install JavaFX native dependencies
 RUN apt-get update && apt-get install -y --no-install-recommends \
     libgtk-3-0 \
-    libasound2 \
+    libasound2t64 \
     libgl1 \
     libx11-6 \
     libxext6 \
